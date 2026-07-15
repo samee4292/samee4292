@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**samee4292/samee4292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Samee Mohammed**, a second-year Computer Science student specializing in **AI & Big Data** at the **University of Wollongong in Dubai**.
 
-Here are some ideas to get you started:
+I'm passionate about building full-stack applications, AI-powered tools, and automation workflows. I enjoy turning ideas into practical software that solves real-world problems, and I'm always exploring new technologies to expand my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+- SQL
+
+### Frameworks & Libraries
+- React
+- Node.js
+- Tailwind CSS
+- Vite
+
+### Databases & Backend
+- MySQL
+- Supabase
+
+### AI & Automation
+- OpenAI API
+- Hugging Face
+- n8n
+
+### Developer Tools
+- Git
+- GitHub
+- VS Code
+- Cursor AI
+
+## 📫 Contact
+
+📧 **Email:** sameemohammed2005@gmail.com
