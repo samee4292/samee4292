@@ -18,6 +18,7 @@ I'm passionate about building full-stack applications, AI-powered tools, and aut
 ### Frameworks & Libraries
 - React
 - Node.js
+- Pandas
 - Tailwind CSS
 - Vite
 
@@ -33,8 +34,15 @@ I'm passionate about building full-stack applications, AI-powered tools, and aut
 ### Developer Tools
 - Git
 - GitHub
+- Jupyter Notebook
 - VS Code
 - Cursor AI
+
+### Data Analysis
+-  pandas
+-  Microsoft Excel
+-  CSV Data Processing
+-  Data Visualization (Matplotlib)
 
 ## 📫 Contact
 
