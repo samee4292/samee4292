@@ -39,3 +39,4 @@ I'm passionate about building full-stack applications, AI-powered tools, and aut
 ## 📫 Contact
 
 📧 **Email:** sameemohammed2005@gmail.com
+ℹ️ **LinkedIn** www.linkedin.com/in/samee-mohammed
