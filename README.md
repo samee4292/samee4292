@@ -18,7 +18,7 @@ I'm passionate about building full-stack applications, AI-powered tools, and aut
 ### Frameworks & Libraries
 - React
 - Node.js
-- Pandas
+- pandas
 - Tailwind CSS
 - Vite
 
